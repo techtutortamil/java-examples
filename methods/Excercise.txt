@@ -1,0 +1,8 @@
+Method calculateAverageMarks():
+
+Calculates the total of the marks.
+Divides the total by the number of marks to get the average.
+Returns the average as a double
+
+Feedback
+If you need further assistance or have feedback, please send your queries or feedback to techtutortamil@gmail.com
