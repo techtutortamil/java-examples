@@ -1,0 +1,16 @@
+// create new class StudentManagement
+
+public class StudentManagement {
+    public static void main(String[] args) {
+		String  action = #####; //add,update,delete,view
+
+        System.out.println("\n\nSwitch Case Example\n\n");
+		
+		switch (action) {
+			case add:
+				System.out.println("adding student into db");
+                break;
+			// create cases for update,delete,view
+			// write default if give different action  System.out.println("invalid action");
+		}
+	}

@@ -1,0 +1,13 @@
+Introduce new variable in Student class with gender as String 
+// try to solve and share the solution to techtutortamil@gmail.com
+private String gender;
+create new constructor like below 
+
+
+    public Student(String name, int id,String gender) {
+		// set the 
+	}
+	
+public static void main(String[] args) {
+	Student student = new Student("Samy", 101,"Male");
+}
